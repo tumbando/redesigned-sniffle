@@ -1,0 +1,24 @@
+.title {
+  width: 10rem;
+  height: 2rem;
+  background: pink;
+  display: block; }
+
+.body {
+  width: 10rem;
+  height: 8rem;
+  background: aqua;
+  display: block; }
+
+button {
+  width: 5rem;
+  height: 2rem; }
+
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 1rem;
+  color: gray;
+  font-style: italic; }
+
+/*# sourceMappingURL=main.css.map */
